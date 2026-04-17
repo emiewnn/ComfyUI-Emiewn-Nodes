@@ -19,6 +19,8 @@ Loads a [GIMM-VFI](https://github.com/GSeanCDAT/GIMM-VFI) frame interpolation mo
 ### Emiewn GIMM-VFI Interpolate
 Interpolates between frames using GIMM-VFI for smooth slow-motion or frame rate upscaling. Supports configurable interpolation factor and optional optical flow output.
 
+(Only reason for GIMM-VFI nodes is that I previously had some issues with the offical nodes not working so I needed a alternative)
+
 ## Installation
 
 1. Clone this repository into your `ComfyUI/custom_nodes/` directory:
