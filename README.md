@@ -24,7 +24,7 @@ Interpolates between frames using GIMM-VFI for smooth slow-motion or frame rate 
 1. Clone this repository into your `ComfyUI/custom_nodes/` directory:
    ```bash
    cd ComfyUI/custom_nodes
-   git clone https://github.com/YOUR_USERNAME/ComfyUI-Emiewn-Nodes.git
+   git clone https://github.com/emiewnn/ComfyUI-Emiewn-Nodes.git
    ```
 
 2. Restart ComfyUI.
